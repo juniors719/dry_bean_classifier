@@ -1,1 +1,1 @@
-# dry_bean_classificator
+# Dry Bean Classifier - Machine Learning
